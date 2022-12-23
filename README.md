@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmz900
 - 👀 I’m interested in Data Science and learning more about coding.
-- 🌱 I’m currently learning python with machine learning.
+- 🌱 I’m currently learning machine learning in python, and Unity (C#).
 
 <!---
 Emmz900/Emmz900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
