@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Emmz900
-- 👀 I’m interested in Data Science and learning more about coding.
-- 🌱 I’m currently learning machine learning in python, and Unity (C#).
+- 👋 Hi, I’m Emma Menzies
+- 🌱 I am currently studying Data Analysis at Codeclan, mainly using R, with some SQL and Python.
 
 <!---
 Emmz900/Emmz900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
