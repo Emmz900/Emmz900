@@ -1,6 +1,6 @@
-- I’m Emma Menzies. I recently studied Professional Data Analysis at Codeclan, mainly using R with some SQL. We covered data cleaning, wrangling, visualisation, statistics, and machine learning.
-- I am now seeking a job in data analysis.
-- Alongside my job search I am aiming to learn about Power BI, cloud services, and improve my python abilities.
+- I’m Emma Menzies. In 2023 I studied Professional Data Analysis at Codeclan, mainly using R with some SQL. We covered data cleaning, wrangling, visualisation, statistics, and machine learning.
+- I now work for Scottish Water building data solutions using Power Platform: mainly Power BI, Power Apps and Power Automate; and R.
+- In my own time I have taught myself some python and enjoy building games, or resources to support playing games.
 - My interests include energy, renewable power, climate change, and sustainability.
 
 <!---
